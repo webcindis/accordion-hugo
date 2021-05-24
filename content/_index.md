@@ -31,7 +31,7 @@ sections:
         type: action
   - type: section_features
     section_id: features
-    title: Features
+    title: Publicaciones
     subtitle: Las últimas novedades de CINDIS
     background: gray
     features:
