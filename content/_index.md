@@ -31,7 +31,7 @@ sections:
         type: action
   - type: section_posts
     section_id: recent-posts
-    title: Latest Posts
+    title: Publicaciones
     background: gray
   - type: section_features
     section_id: features
