@@ -4,8 +4,15 @@ sections:
   - type: section_hero
     section_id: hero
     title: Bienvenidos a CINDIS
-    content: |
-      Centro de Integración de Discapacitados
+    content: >
+      ## Centro de Integración de Discapacitados
+
+
+
+
+      #### Es el único Centro en Uruguay que brinda atención educativa
+      especializada y tratamientos individuales en un mismo plan de trabajo
+      coordinado.&#xA;&#xA;
     image: images/hero.png
     image_alt: App preview
     actions:
