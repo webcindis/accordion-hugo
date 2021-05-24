@@ -114,7 +114,7 @@
 
   .site-header {
     &:before {
-      background: #00ff40;//rgba($gray-100, .75);
+      background: rgba($gray-100, .75);
       content: "";
       height: 100vh;
       left: 0;
