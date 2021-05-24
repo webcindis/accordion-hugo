@@ -21,16 +21,16 @@
 
     .button {
       background: green;//$color-primary;
-      border-color: green;//$color-primary;
+      border-color: $color-primary;
 
       &.secondary {
         background: transparent;
-        color: green;//$color-primary;
+        color: $color-primary;
       }
     }
 
     .icon-plus {
-      background: green;//$color-primary;
+      background: $color-primary;
     }
 
     .review-text {
