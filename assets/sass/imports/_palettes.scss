@@ -1,12 +1,12 @@
 // Color palettes
 @each $palette in map-keys($theme-palettes) {
   $palette-suffix: "#{$palette}";
-  $color-primary: map-deep-get($theme-palettes, $palette, green);
-  $color-secondary: map-deep-get($theme-palettes, $palette, green);
+  $color-primary: map-deep-get($theme-palettes, $palette, "primary");
+  $color-secondary: map-deep-get($theme-palettes, $palette, "secondary");
 
   .palette-#{$palette-suffix} {
     a:not(.button) {
-      color: $color-primary;
+      color: green;//$color-primary;
 
       &:hover {
         color: $gray-600;
@@ -16,26 +16,26 @@
     blockquote,
     .underline:after,
     .card.highlight {
-      border-color: $color-primary;
+      border-color: green;//$color-primary;
     }
 
     .button {
-      background: $color-primary;
-      border-color: $color-primary;
+      background: green;//$color-primary;
+      border-color: green;//$color-primary;
 
       &.secondary {
         background: transparent;
-        color: $color-primary;
+        color: green;//$color-primary;
       }
     }
 
     .icon-plus {
-      background: $color-primary;
+      background: green;//$color-primary;
     }
 
     .review-text {
       &:before {
-        color: $color-primary;
+        color: green;//$color-primary;
       }
     }
 
@@ -45,7 +45,7 @@
       background: linear-gradient(to right,green, green);
 
       .button {
-        color: $color-primary;
+        color: green;//$color-primary;
       }
     }
   }
