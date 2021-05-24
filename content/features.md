@@ -31,6 +31,11 @@ sections:
         label: View Demo
         url: '#'
         style: secondary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
   - type: section_cta
     section_id: call-to-action
     title: This Is Call to Action Block!
