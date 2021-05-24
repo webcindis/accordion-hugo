@@ -20,7 +20,7 @@ sections:
         label: Sobre CINDIS
         url: /features
         style: primary
-      - label: lorem-ipsum
+      - label: Contáctenos
         url: '#'
         style: secondary
         has_icon: false
