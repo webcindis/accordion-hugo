@@ -1,6 +1,6 @@
 // Color palettes
 @each $palette in map-keys($theme-palettes) {
-  /*$palette-suffix: "#{$palette}";
+  $palette-suffix: "#{$palette}";
   $color-primary: "green";//map-deep-get($theme-palettes, $palette, "primary");
   $color-secondary: map-deep-get($theme-palettes, $palette, "secondary");
 
@@ -12,7 +12,7 @@
         color: $gray-600;
       }
     }
-*/
+
     blockquote,
     .underline:after,
     .card.highlight {
