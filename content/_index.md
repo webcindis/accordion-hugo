@@ -17,7 +17,7 @@ sections:
     image_alt: App preview
     actions:
       - type: action
-        label: Learn More
+        label: Sobre CINDIS
         url: /features
         style: primary
       - label: lorem-ipsum
