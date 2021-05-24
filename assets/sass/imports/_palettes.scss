@@ -6,7 +6,7 @@
 
   .palette-#{$palette-suffix} {
     a:not(.button) {
-      color: $color-primary;
+      color: green;//$color-primary;
 
       &:hover {
         color: $gray-600;
