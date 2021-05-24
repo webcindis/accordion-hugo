@@ -91,7 +91,7 @@ sections:
     actions:
       - label: Ver más publicaciones
         url: '#'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: left
