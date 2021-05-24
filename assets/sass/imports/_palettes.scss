@@ -30,12 +30,12 @@
     }
 
     .icon-plus {
-      background: green;//$color-primary;
+      background: $color-primary;
     }
 
     .review-text {
       &:before {
-        color: green;//$color-primary;
+        color: $color-primary;
       }
     }
 
