@@ -9,10 +9,6 @@ sections:
     image: images/hero.png
     image_alt: App preview
     actions:
-      - type: action
-        label: Learn More
-        url: /features
-        style: primary
       - label: lorem-ipsum
         url: '#'
         style: link
@@ -22,6 +18,10 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - type: action
+        label: Learn More
+        url: /features
+        style: primary
   - type: section_features
     section_id: features
     title: Features
