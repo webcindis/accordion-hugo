@@ -33,6 +33,7 @@ sections:
     section_id: recent-posts
     title: Publicaciones
     background: gray
+    subtitle: Las últimas novedades de CINDIS
   - type: section_features
     section_id: features
     title: Publicaciones
