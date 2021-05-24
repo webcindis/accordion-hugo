@@ -89,7 +89,7 @@ sections:
     image_alt: lorem-ipsum
     background: gray
     actions:
-      - label: lorem-ipsum
+      - label: Ver más publicaciones
         url: '#'
         style: link
         has_icon: false
