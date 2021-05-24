@@ -29,6 +29,10 @@ sections:
         new_window: false
         no_follow: false
         type: action
+  - type: section_posts
+    section_id: recent-posts
+    title: Latest Posts
+    background: gray
   - type: section_features
     section_id: features
     title: Publicaciones
@@ -122,10 +126,6 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - type: section_posts
-    section_id: recent-posts
-    title: Latest Posts
-    background: gray
 seo:
   type: stackbit_page_meta
   title: Stackbit Azimuth Theme
