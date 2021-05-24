@@ -1,7 +1,7 @@
 // Color palettes
 @each $palette in map-keys($theme-palettes) {
   $palette-suffix: "#{$palette}";
-  $color-primary: map-deep-get($theme-palettes, $palette, "primary");
+  $color-primary: map-deep-get($theme-palettes, $palette,);
   $color-secondary: map-deep-get($theme-palettes, $palette, "secondary");
 
   .palette-#{$palette-suffix} {
