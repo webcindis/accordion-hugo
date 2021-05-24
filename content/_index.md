@@ -43,6 +43,12 @@ sections:
         label: Get Started
         url: /signup
         style: primary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    reviews: []
+    type: section_reviews
 seo:
   type: stackbit_page_meta
   title: Stackbit Azimuth Theme
