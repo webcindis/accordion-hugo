@@ -32,9 +32,7 @@ sections:
   - type: section_features
     section_id: features
     title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Las últimas novedades de CINDIS
     background: gray
     features:
       - type: feature_item
