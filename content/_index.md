@@ -5,7 +5,7 @@ sections:
     section_id: hero
     title: This Is A Big Hero Headline
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
+      Pito is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.
     image: images/hero.png
     image_alt: App preview
