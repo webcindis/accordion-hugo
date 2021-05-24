@@ -34,7 +34,7 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
-    background: gray
+    background: white
     type: section_posts
   - type: section_cta
     section_id: call-to-action
