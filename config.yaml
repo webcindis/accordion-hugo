@@ -13,7 +13,7 @@ params:
         label: Home
         url: /
         style: link
-        has_icon: true
+        has_icon: false
       - type: action
         label: Features
         url: /features
