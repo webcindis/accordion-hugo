@@ -83,6 +83,15 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+  - type: section_cta
+    section_id: call-to-action
+    title: This Is Call To Action Block!
+    subtitle: This is an optional description for the call to action block.
+    actions:
+      - type: action
+        label: Get Started
+        url: /signup
+        style: primary
   - type: section_reviews
     section_id: reviews
     title: Testimonials
@@ -113,15 +122,6 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - type: section_cta
-    section_id: call-to-action
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - type: action
-        label: Get Started
-        url: /signup
-        style: primary
   - type: section_posts
     section_id: recent-posts
     title: Latest Posts
