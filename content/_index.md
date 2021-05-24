@@ -3,10 +3,10 @@ title: Home
 sections:
   - type: section_hero
     section_id: hero
-    title: This Is A Big Hero Headline
+    title: Bienvenidos a Cindis
     content: >-
-      Pito is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+      Pito is the perfect theme for developers, designers and entrepreneurs who
+      need a sleek, modern SaaS site.
     image: images/hero.png
     image_alt: App preview
     actions:
