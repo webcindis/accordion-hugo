@@ -16,16 +16,16 @@
     blockquote,
     .underline:after,
     .card.highlight {
-      border-color: green;//$color-primary;
+      border-color: $color-primary;
     }
 
     .button {
-      background: green;//$color-primary;
-      border-color: green;//$color-primary;
+      background: $color-primary;
+      border-color: $color-primary;
 
       &.secondary {
         background: transparent;
-        color: green;//$color-primary;
+        color: $color-primary;
       }
     }
 
